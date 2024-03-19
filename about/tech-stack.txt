@@ -1,13 +1,13 @@
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=react" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=html" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=css" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=vscode" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=github" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=figma" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=tailwind" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=git" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=python" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=javascript" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=java" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=cpp" />
-<img className="px-3 pt-8" src="https://skillicons.dev/icons?i=mysql" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=react" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=html" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=css" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=vscode" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=github" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=figma" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=tailwind" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=git" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=python" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=javascript" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=java" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=cpp" />
+<img style="padding-left: 12px; padding-right: 12px; padding-top: 32px" src="https://skillicons.dev/icons?i=mysql" />
