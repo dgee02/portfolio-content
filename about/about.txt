@@ -1,1 +1,1 @@
-I'm a <b>Computer Science</b> student at <b>Simon Fraser University</b> fueled by a passion for technology and innovation. With practical experience gained as an <b>IT Support Technician</b> during a co-op placement at <b>BC Cancer</b>, I've honed my skills in troubleshooting and problem-solving. 
+I'm a <b>Computer Science</b> student at <b>Simon Fraser University</b> with a passion for technology and innovation. I've also gained practical experience as an <b>IT Support Technician</b> during a co-op placement at <b>BC Cancer</b>.
