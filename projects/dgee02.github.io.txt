@@ -1,1 +1,2 @@
-A comprehensive showcase of my projects, skills, and experiences in the field of computer science and software development. Explore my work, learn about my background, and get in touch to discuss potential collaborations.
+The website you're on right now. Built from scratch, this site features a responsive design, interactive animations, and integrates data fetching for dynamic content presentation.<br><br>
+Made using: Vite, Tailwind CSS, Framer Motion
