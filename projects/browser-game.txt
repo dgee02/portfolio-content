@@ -1,1 +1,2 @@
-Embark on a side-scrolling adventure as you take on the role of a bird with bullet-firing capabilities. Navigate through obstacles with only one HP and defeat the boss to emerge triumphant.
+I drew inspiration from games like Cuphead and Flappy Bird to create this side-scroller. Players control a bird with bullet-firing abilities, navigating through obstacles with one HP and defeating the boss to win.<br><br>
+Made using: JavaScript, HTML, CSS
