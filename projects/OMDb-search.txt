@@ -1,0 +1,2 @@
+Enables users to search and explore the OMDb RESTful service. Features data and trailers through OMDb and YouTube API integration, advanced filtering options, and more.<br><br>
+Made using: Vite, Tailwind CSS, Axios
