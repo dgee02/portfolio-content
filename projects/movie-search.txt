@@ -1,1 +1,0 @@
-Explore the world of cinema with this React application. Simply input the title of a movie to instantly find it and click on any result to access its IMDb page for additional details.
