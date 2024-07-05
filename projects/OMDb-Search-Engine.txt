@@ -1,2 +1,2 @@
 Users are provided with a robust experience for obtaining information from the OMDb RESTful service. Includes trailers through YouTube API integration, advanced filtering options, search term highlighting, and more.<br><br>
-Made using: Vite, Tailwind CSS, Axios
+Made using: Vite, Tailwind CSS, Netlify, Axios
