@@ -1,2 +1,2 @@
-Users are provided with a robust experience for obtaining information from the OMDb RESTful service. Includes AI functionality powered by Google Gemini, trailers through YouTube, advanced filtering options, search term highlighting, and more.<br><br>
+Easily find the movie, TV show, or episode you're looking for. Includes AI functionality powered by Google Gemini, trailers through YouTube, advanced filtering options, search term highlighting, and more.<br><br>
 Made using: Vite, Tailwind CSS, Netlify, Axios
