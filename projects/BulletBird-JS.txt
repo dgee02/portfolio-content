@@ -1,2 +1,2 @@
-I drew inspiration from games like Cuphead and Flappy Bird to create this side-scroller. Players control a bird with bullet-firing abilities, navigating through obstacles with one HP and defeating the boss to win.<br><br>
+I drew inspiration from games like Cuphead and Flappy Bird to create this side-scroller. Play as a bird with bullet-firing abilities, navigate through obstacles with just one HP, and defeat the boss to win.<br><br>
 Made using: JavaScript, HTML, CSS
