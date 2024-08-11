@@ -1,2 +1,2 @@
-I drew inspiration from games like Cuphead and Flappy Bird to create this side-scroller. Play as a bird with bullet-firing abilities and dodge obstacles with just one HP. Defeat the boss to win!<br><br>
+I drew inspiration from games like Cuphead and Flappy Bird to create this side-scroller. Play as a bird with bullet-firing abilities and dodge obstacles with just one HP. Defeat the three-phase boss to win.<br><br>
 Made using: JavaScript, HTML, CSS
