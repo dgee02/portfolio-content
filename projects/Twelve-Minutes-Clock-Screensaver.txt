@@ -1,2 +1,2 @@
-Inspired by the design of the clock from the game Twelve Minutes, I created this Windows screensaver to bring its aesthetic to the desktop. The screensaver replicates the clock's clean look by featuring only hour and minute hands.<br><br>
+Inspired by the Fliqlo screensaver and the clock from the game Twelve Minutes, I created this Windows screensaver to bring a sleek, minimalist aesthetic to the desktop. It features a clean design with only the hour and minute hands.<br><br>
 Made using: Electron, Node.js, JavaScript
