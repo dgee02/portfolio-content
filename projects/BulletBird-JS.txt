@@ -1,2 +1,2 @@
-Side-scroller inspired by Cuphead and Flappy Bird, where you play as a bird with bullet-firing abilities and defeat a three-phase boss.<br><br>
+A side-scroller inspired by Cuphead and Flappy Bird. You play as a bird with bullet-firing abilities and defeat a three-phase boss.<br><br>
 Made using: JavaScript, HTML, CSS
