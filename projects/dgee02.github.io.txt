@@ -1,2 +1,2 @@
-The website you're on right now. Built from scratch, this site features a responsive design, interactive animations, and integrates data fetching for dynamic content presentation.<br><br>
+The website you're on right now. Features a responsive design, interactive animations, and dynamic content integration.<br><br>
 Made using: Vite, Tailwind CSS, Framer Motion
