@@ -1,2 +1,2 @@
-Inspired by the Fliqlo screensaver and the clock from the game Twelve Minutes, I created this Windows screensaver to bring a sleek, minimalist aesthetic to the desktop.<br><br>
+Minimalist Windows screensaver inspired by <a href='https://fliqlo.com/' target='_blank'>Fliqlo</a> and <a href='https://store.steampowered.com/app/1097200/Twelve_Minutes/' target='_blank'>Twelve Minutes</a>.<br><br>
 Made using: Electron, Node.js, JavaScript
