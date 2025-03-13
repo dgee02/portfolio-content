@@ -1,2 +1,2 @@
-Minimalist Windows screensaver inspired by <a href='https://fliqlo.com/' target='_blank' style='text-decoration: underline; font-weight: bold;'>Fliqlo</a> and <a href='https://store.steampowered.com/app/1097200/Twelve_Minutes/' target='_blank' style='text-decoration: underline; font-weight: bold;'>Twelve Minutes</a>.<br><br>
+A minimalist Windows screensaver inspired by the Twelve Minutes game and the Fliqlo screensaver.<br><br>
 Made using: Electron, Node.js, JavaScript
