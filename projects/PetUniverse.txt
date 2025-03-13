@@ -1,2 +1,2 @@
-An all-in-one app for buying pets, shopping for supplies, and finding accessories. Includes real-time chat, location search, and offline functionality.<br><br>
+An all-in-one app for finding pets, supplies, and accessories. Includes real-time chat, user reviews, location search, and offline functionality.<br><br>
 Made using: Kotlin, Firebase, Room
