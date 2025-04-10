@@ -1,24 +1,24 @@
 <!-- Frontend technologies -->
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=html" alt="HTML">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=css" alt="CSS">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=react" alt="React">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=html" alt="HTML">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=css" alt="CSS">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=react" alt="React">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS">
 
 <!-- Backend technologies -->
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=python" alt="Python">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=java" alt="Java">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=cpp" alt="C++">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=python" alt="Python">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=java" alt="Java">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=cpp" alt="C++">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=firebase" alt="Firebase">
 
 <!-- Databases -->
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
 
 <!-- Dev tools -->
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=git" alt="Git">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=docker" alt="Docker">
-<img style="padding: 12px; margin-top: 1.5rem; height: 60px;" src="https://skillicons.dev/icons?i=figma" alt="Figma">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=git" alt="Git">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=docker" alt="Docker">
+<img style="padding: 12px; height: 60px;" src="https://skillicons.dev/icons?i=figma" alt="Figma">
