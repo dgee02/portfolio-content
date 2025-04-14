@@ -1,2 +1,2 @@
-Quickly find movies, TV shows, or episodes with AI-powered search, YouTube trailers, and advanced filters.<br><br>
+Quickly find movies, TV shows, or episodes with AI-powered search and advanced filters.<br><br>
 Made using: Vite, Tailwind CSS, Netlify, Axios
